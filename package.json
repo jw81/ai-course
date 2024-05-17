@@ -1,0 +1,25 @@
+{
+  "name": "ai-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jw81/ai-course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jw81/ai-course/issues"
+  },
+  "homepage": "https://github.com/jw81/ai-course#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "openai": "^4.47.1"
+  }
+}
